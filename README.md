@@ -1,15 +1,7 @@
-# Resilient websocat
+# Bot irc pour hackens
 
-Simple Python program that plugs a websocket endpoint to `stdin`/`stdout`. It tries to be as resilient as possible to network deconnexions.
+Ceci est un bot irc pour hackens, il gère deux commandes :
+ * `trash`: Indique si la poubelle de l'arrière est pleine
+ * `kfet`: Indique si la K\_Fêt est ouverte
 
-## Building
-
-```
-TODO
-```
-
-## Running
-
-```
-rwebsocat
-```
+Si l'on souhaite utiliser les commandes dans un canal il faut les préfixer par `crux: `. Ce n'est pas nécessaire en messages privés
