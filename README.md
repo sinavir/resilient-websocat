@@ -11,6 +11,6 @@ nix-build
 ## Running
 
 ```
-rwebsocat
+./result/bin/rwebsocat [ws url]
 ```
 
