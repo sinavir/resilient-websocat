@@ -1,10 +1,15 @@
 # Resilient websocat
 
-Simple Go program that plugs a websocket endpoint to `stdin`/`stdout`. It tries to ba as resilient as possible to network deconnexions.
+Simple Python program that plugs a websocket endpoint to `stdin`/`stdout`. It tries to be as resilient as possible to network deconnexions.
 
 ## Building
 
 ```
-nix-shell
-go build
+TODO
+```
+
+## Running
+
+```
+rwebsocat
 ```
